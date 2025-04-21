@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Portfolio: Please see my collection of works
 ---
 
